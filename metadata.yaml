@@ -1,0 +1,41 @@
+_repo: GeschichtenSonjas-Chaiselongue---Fl-gel_41305
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mesching, Edgar
+    gutenberg_agent_id: '41104'
+    url: http://www.gutenberg.org/2009/agents/41104
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kuzmin, M. A. (Mikhail Alekseevich)
+    aliases:
+    - Kuzmin, Mikhail Alekseevich
+    - Кузмин, М. А. (Михаил Алексеевич)
+    - Kusmin, Michael A.
+    - Kusmin, M.
+    - Kusmin, Michail
+    birthdate: 1872
+    deathdate: 1936
+    gutenberg_agent_id: '41103'
+    url: http://www.gutenberg.org/2009/agents/41103
+description: ''
+gutenberg_issued: '2012-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41305'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into German'
+- !lcc 'PG'
+- !lcsh 'Fiction'
+tableOfContents: Aimé Leboeufs Abenteuer -- Aus den Briefen der Claire Valmont --
+  Florus und der Räuber -- Der Schatten der Phyllis -- Tante Sonjas Chaiselongue --
+  Flügel.
+title: Geschichten
+url: http://www.gutenberg.org/ebooks/41305
