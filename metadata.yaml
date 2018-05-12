@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '41103'
     url: http://www.gutenberg.org/2009/agents/41103
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41305#GeschichtenSonjas-Chaiselongue---Fl-gel
 gutenberg_issued: '2012-11-06'
 gutenberg_type: Text
 identifiers:
